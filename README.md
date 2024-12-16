@@ -1,4 +1,4 @@
-# SpartanPortal: Course Management System
+# SpartanPortal: Student Management System
 
 Spartan Portal is a student management system developed in C++ and designed for students at Batangas 
 State University - Alangilan Campus. The system enables students to efficiently manage their accounts 
